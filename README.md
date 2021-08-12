@@ -1,5 +1,7 @@
 # Fintech Bootcamp Project 1: Cryptocurrency Fundamental Analysis Tool
 
+Fintech Bootcamp Project 1: Cryptocurrency Fundamental Analysis Tool
+
 Group 5:
 Aquiba Benarroch
 Moustafa Moussa
@@ -26,26 +28,19 @@ Can fundamental analysis help investors make better investment decisions?
 
 Data Collection:
 
-We will be using CoinMetrics APIs to fetch the information for supply for this project. The data points we will highlight include market cap, volume, circulating supply, total supply, active addresses, and other relevant information. 
+We will be using CoinMetrics APIs to fetch the information for supply for this project. Coin Metrics organizes the world's crypto data and makes it transparent and accessible. 
+The data points we will highlight include: market cap, volume, circulating supply, total supply, active addresses, and other relevant information. We will set up Jupyter Notebook to look like a dashboard and will use pandas for data frames to display the information provided by the API. 
 
 BTC:
+With a total supply of 21 million coins, Bitcoin, as of August 2021 the highest valued coin with 18 million coins currently circulating. Once the 21 million coins are mined there will be no more available. With 18 million coins multiplied by its current price ($45K-  August 11, 2021) puts Bitcoins’ market cap of over a trillion dollars. 
 
-With a total supply of 21 million coins, Bitcoin (as of August 2021) the highest valued coin with 18 million coins currently circulating. Once the 21 million coins are mined there will be no more available. With 18 million coins multiplied by its current price ($45K-  August 11, 2021) puts Bitcoins’ market cap of over a trillion dollars. 
-
-*fundamentals and plots* 
-
+*fundamentals and plots*
 ETH:
-*desciption*
 *fundamentals and plots*
-
 DOGE:
-*desciption*
 *fundamentals and plots*
-
 BNB:
-*desciption*
 *fundamentals and plots*
 
 Conclusion:
-
 
