@@ -36,7 +36,7 @@ We will set up Jupyter Notebook to look like a dashboard and will use pandas for
 
 Bitcoin (BTC):
 
-With a total supply of 21 million coins, Bitcoin (as of August 2021), the highest valued coin with 18 million coins currently circulating. Once the 21 million coins are mined there will be no more available. With 18 million coins multiplied by its current price ($45K: August 11, 2021) puts Bitcoins’ market cap of over a trillion dollars. 
+With a total supply of 21 million coins, Bitcoin (as of August 2021), is the highest valued coin with 18 million coins currently circulating. With 18 million coins multiplied by its current price ($45K: August 11, 2021) puts Bitcoins’ market cap over a trillion dollars. 
 
 *fundamentals and plots*
 
