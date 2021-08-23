@@ -94,47 +94,52 @@ Combining the final DataFrame get_data_all_df and the get_plot function, using t
 
 With a total supply of 21 million coins, Bitcoin (as of August 2021), is the highest valued coin with 18 million coins currently circulating. With 18 million coins multiplied by its current price ($45K: August 11, 2021) puts Bitcoins’ market cap over a trillion dollars. 
 
-Changes in ‘active addresses’ as a leading indicator of BTC price.
+Changes in ‘active addresses’ as a leading indicator of BTC price. The movement of active addresses seems to be ahead of how BTC prices will move in upcoming weeks/months. 
 
-![](Project1Images/AALeadingIndicatorBTC1.png)
-***Image 7: BTC Active Addresses***
+![](Project1Images/BTCPrices.png)
 
-![](Project1Images/AALeadingIndicatorBTC2.png)
-***Image 8: BTC Prices***
+![](Project1Images/BTCActiveAddresses.png)
+
+***Image 7: BTC Prices and BTC Active Addresses***
 
 
 **Etheruem (ETH):**
 
 *Introduction*
 
-*Historic changes of key fundamentals metrics*
+![](Project1Images/ETHPrices.png)
 
-*Changes in ‘active addresses’ as a leading indicator of ETH price*
+![](Project1Images/ETHMovingAvg.png)
+***Image 8: ETH Prices and ETH ***
 
 
 **Doge (DOGE):**
 
 *Introduction*
 
-*Historic changes of key fundamentals metrics*
+![](Project1Images/DOGEPRICES.png)
 
-*Changes in ‘active addresses’ as a leading indicator of DOGE price*
+![](Project1Images/DOGE1Addresses.png)
+***Image 9: DOGE Prices and DOGE Addresses > $1 ***
 
 **Tether (USDT):**
 
 *Introduction* 
 
-*Historic changes of key fundamentals metrics*
+![](Project1Images/USDTPrices.png)
 
-*Changes in ‘active addresses’ as a leading indicator of USDT price*
+![](Project1Images/USDTActiveAddresses.png)
+***Image 10: USDT Prices and USDT Active Addresses***
 
 ## **Case Study using the Free Float Metric**
 
-Effect of EIP-1559 adoption to the supply of ethereum
+Effect of EIP-1559 adoption to the supply of Ethereum. One of the key changes to the protocal was that instead of mining ETH and creating more supply for ETH everytime there is a new block in the chain, they will start burning ETH. With our tool, we wanted to test if we could see this happen in real time for ETH and choose the free float metric to see this. As we can see in the following images below, we can see ETH start to decrease. Especially on August 4th when this change was announced. 
 
 ![](Project1Images/ETHStudy1.png)
+***Image 11: BTC Active Addresses***
 
 ![](Project1Images/ETHStudy2.png)
+***Image 12: BTC Active Addresses***
 
 
 ## **Conclusion:**
