@@ -94,7 +94,7 @@ Combining the final DataFrame get_data_all_df and the get_plot function, using t
 
 With a total supply of 21 million coins, Bitcoin (as of August 2021), is the highest valued coin with 18 million coins currently circulating. With 18 million coins multiplied by its current price ($45K: August 11, 2021) puts Bitcoins’ market cap over a trillion dollars. 
 
-Changes in ‘active addresses’ as a leading indicator of BTC price. The movement of active addresses seems to be ahead of how BTC prices will move in upcoming weeks/months. 
+A new investor could use our tool and say may notice certain patterns with our graphs. Such as perhaps changes in ‘active addresses’ as a leading indicator of BTC price. The movement of active addresses seems to be ahead of how BTC prices will move in upcoming weeks/months. 
 
 ![](Project1Images/BTCPrices.png)
 
@@ -102,29 +102,27 @@ Changes in ‘active addresses’ as a leading indicator of BTC price. The movem
 
 ***Image 7: BTC Prices and BTC Active Addresses***
 
+**Ether (ETH):**
 
-**Etheruem (ETH):**
-
-*Introduction*
+Etheruem is a decentralized application (DApps), that is an open-source blockchain with smart contract functionality. Its coin the Ether has continued to increase over time as new blockchain projects feed in the Etheruem network building out their platform. As a decentralized finance application, Etheruem provides a wide range of financial services without the need of a brokeages, exchanges, or banks. It also provides investors the opportunity to create and exchange NFTs. 
 
 ![](Project1Images/ETHPrices.png)
 
 ![](Project1Images/ETHMovingAvg.png)
-***Image 8: ETH Prices and ETH ***
+***Image 8: ETH Prices and ETH MVRV***
 
+**DogeCoin (DOGE):**
 
-**Doge (DOGE):**
+Starting out as a parody less than a decade ago, the Dogecoin cryptocurrency has sky rocketed in 2021 as new investors piled in. At the start of the year, DOGE traded at $0.005405 and its current price as of August 19th is $0.3207. At it highest peak, Dogecoin gained more than 15,000%.
 
-*Introduction*
-
-![](Project1Images/DOGEPRICES.png)
+![](Project1Images/DOGEPRICES1.png)
 
 ![](Project1Images/DOGE1Addresses.png)
-***Image 9: DOGE Prices and DOGE Addresses > $1 ***
+***Image 9: DOGE Prices and DOGE Addresses > $1***
 
 **Tether (USDT):**
 
-*Introduction* 
+Tether is a cryptocurrency labeled as a 'stablecoin' as it was originally designed to be worth $1.00. This digital coin is tied to real-world assets such as the US dollar to maintain its stable value. As of July 2021, it is the third-biggest cryptocurrency in the world based on its market value. 
 
 ![](Project1Images/USDTPrices.png)
 
@@ -136,20 +134,11 @@ Changes in ‘active addresses’ as a leading indicator of BTC price. The movem
 Effect of EIP-1559 adoption to the supply of Ethereum. One of the key changes to the protocal was that instead of mining ETH and creating more supply for ETH everytime there is a new block in the chain, they will start burning ETH. With our tool, we wanted to test if we could see this happen in real time for ETH and choose the free float metric to see this. As we can see in the following images below, we can see ETH start to decrease. Especially on August 4th when this change was announced. 
 
 ![](Project1Images/ETHStudy1.png)
-***Image 11: BTC Active Addresses***
 
 ![](Project1Images/ETHStudy2.png)
-***Image 12: BTC Active Addresses***
+***Image 11: Changes to ETH Prices and Free Float Supply as the Effect of EIP-1559 adoption***
 
 
 ## **Conclusion:**
 
 - Reintroduce our tool again. Briefly mention how we collected data and made our tool. Using CoinMetrics API to supply the real-time coin data, we will also create historical graphs of the coins as they change over time. The features the tool has and how it’s helpful for an investor interested in cryptocurrency 
-
-
-
-
-
-
-
-
