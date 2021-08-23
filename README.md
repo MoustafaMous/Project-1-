@@ -33,8 +33,8 @@ The data points we will highlight include: market cap, active addresses, and oth
 - Panel - Interactive web apps and widgets
 - HoloViews - Data analysis and visualization cleanup
 
-*Image 1: Generalized Overview of Cryptocurrency Fundamental Analysis Tool*
-(Image)
+![](Project1Images/CodeLogic.png)
+***Image 1: Generalized Overview of the Cryptocurrency Fundamental Analysis Tool***
 
 The Cryptocurrency Fundamental Analysis Tool works overall is like the following:
 
@@ -54,18 +54,38 @@ When it came to organizing the content of our tool, we picked certain metrics th
 - Addresses $1: AdrBalUSD1Cnt
 - Addresses $1M: AdrBalUSD1MCnt
 
-*Image 2: CoinMetrics Asset Metrics*
-(Image 2)
+![](Project1Images/DataFrames.png)
+***Image 2: CoinMetrics Asset Metrics Concatencated DataFrames to Comply with DRY Standard***
 
-By choosing basic information such as a coin’s price, market cap and its active addresses is essential for our tool. Additional features such as the ones listed above can be added to our tool with additional programming based on what the API offers.
+By choosing basic information such as a coin’s price, market cap and its active addresses is essential for our tool. Additional features such as the ones listed above can be added to our tool with additional programming based on what the API offers. CoinMetrics has a query that lists a metrics' assests and attritbutes which are represented by an specfic asset ID. This gives it a specfic function and describes how frequent these metrics are updated and categorized. 
 
-## **Cryptocurrencies**
+These metrics were accessed from this website: https://docs.coinmetrics.io/info/metrics
+
+
+## **Interactive Visual Graph:**
+
+Write a description of  how it was made using a dynamic plot with its price information
+Paste images of the actual plots and features
+
+![](Project1Images/PanelFunction.png)
+***Image 3: Panel library within the Function***
+
+![](Project1Images/Panel%20Image.png)
+***Image 4: Interactive Tool and Graph***
+
+
+
+## **Using the Tool for Graph Comparisons for Cryptocurrencies (BTC, ETH, DOGE, USDT):**
 
 **Bitcoin (BTC):**
 
 With a total supply of 21 million coins, Bitcoin (as of August 2021), is the highest valued coin with 18 million coins currently circulating. With 18 million coins multiplied by its current price ($45K: August 11, 2021) puts Bitcoins’ market cap over a trillion dollars. 
 
-*Historic changes of key fundamentals metrics*
+![](Project1Images/AALeadingIndicatorBTC1.png)
+***Image 5: BTC Active Addresses***
+
+![](Project1Images/AALeadingIndicatorBTC2.png)
+***Image 6: BTC Prices***
 
 *Changes in ‘active addresses’ as a leading indicator of BTC price*
 
@@ -95,9 +115,14 @@ With a total supply of 21 million coins, Bitcoin (as of August 2021), is the hig
 
 *Changes in ‘active addresses’ as a leading indicator of USDT price*
 
-## **Case Study:**
+## **Case Study**
 
 Effect of EIP-1559 adoption to the supply of ethereum
+
+![](Project1Images/ETHStudy1.png)
+
+![](Project1Images/ETHStudy2.png)
+
 
 ## **Conclusion:**
 
