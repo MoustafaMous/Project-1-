@@ -138,7 +138,3 @@ Effect of EIP-1559 adoption to the supply of Ethereum. One of the key changes to
 ![](Project1Images/ETHStudy2.png)
 ***Image 11: Changes to ETH Prices and Free Float Supply as the Effect of EIP-1559 adoption***
 
-
-## **Conclusion:**
-
-- Reintroduce our tool again. Briefly mention how we collected data and made our tool. Using CoinMetrics API to supply the real-time coin data, we will also create historical graphs of the coins as they change over time. The features the tool has and how it’s helpful for an investor interested in cryptocurrency 
